@@ -1,0 +1,29 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    height:auto;
+    width: 500px;
+}
+
+li,p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+body{
+    background-color: gray;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h2{
+    font-size: 32px;
+}
+
+h3{
+    font-size: 26px;
+}
